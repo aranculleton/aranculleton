@@ -14,8 +14,8 @@ with AI-extracted servicing-note signals to rank high-risk cases, explain risk m
 and support human review.
 
 I'm also contributing to [CopulAX](https://github.com/aranculleton/copulax),
-a JAX-based copula modeling library, where I'm working on distribution support,
-tests, and contributor documentation (including clearer macOS/Linux setup guidance).
+a JAX-based copula modeling library, where I'm working on univariate distribution support,
+numerical edge-case tests, and clearer macOS/Linux contributor setup guidance.
 
 Outside work, I'm also a chef.
 I spend most of my off-hours cooking, traveling, watching films,
