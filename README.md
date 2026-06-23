@@ -1,25 +1,23 @@
 # Aran Culleton
 
-I'm a Data Science Consultant at xantura (Newton Europe), working across analytics engineering,
-applied machine learning, and risk decisioning.
+I'm a Data Science Consultant at xantura (Newton Europe), previously at British Airways and the BBC,
+working across analytics engineering, applied machine learning, and risk decisioning.
 
-Most of my work sits at the overlap of SQL, Python, and cloud data workflows: building things
-that are useful for operators, not just tidy in a notebook.
+I mostly build SQL/Python/Azure workflows and scoring systems that have to hold up in real operations,
+not just in notebooks. Recent work has included prioritization pipelines over 1.5M+ records,
+plus ingestion and validation workflows that cut data prep cycles from weeks to days.
 
-I previously worked at British Airways and the BBC, where I focused on forecasting, experimentation,
-and reliable data products for high-traffic teams.
-
-Right now I am building RiskSignal Copilot in
-[account-risk-scoring](https://github.com/aranculleton/account-risk-scoring):
-an account risk pipeline that combines structured features with AI-extracted signals from case notes,
-then outputs triage-ready risk reasons and suggested next actions.
+Right now I am building [CaseSignal](https://github.com/aranculleton/account-risk-scoring),
+an account-risk scoring project that combines structured account behavior with AI-extracted note signals
+to produce triage-ready rankings, reasons, and suggested next actions.
 
 I also contribute to [CopulAX](https://github.com/aranculleton/copulax),
-laying groundwork for a new univariate distribution while improving docs and contributor workflows,
-including clearer setup/integration paths for non-Windows environments.
+where I am laying groundwork for a new univariate distribution and improving docs/contributor setup,
+including smoother integration paths for non-Windows environments.
 
-Outside data work, I am also a chef.
-Cooking, travel, and football keep me balanced.
+Outside work, I am also a chef.
+I spend most of my off-hours cooking, traveling, and watching films
+(and logging them on [Letterboxd](https://letterboxd.com/ar9n/)).
 
 ## Find me
 
