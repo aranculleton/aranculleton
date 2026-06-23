@@ -1,17 +1,26 @@
 # Aran Culleton
 
-Analytics engineer at xantura.
+I build practical analytics workflows that teams can actually use.
 
-I work mainly on practical data and risk workflows:
-- SQL pipelines and feature logic
-- Python-based risk scoring prototypes
-- lightweight JAX experimentation where it adds value
+My focus is turning messy operational data into something decision-ready:
+- clear SQL logic
+- reproducible Python pipelines
+- simple risk scoring workflows that are easy to run and explain
 
-Current focus:
-- account-risk-scoring: building a monthly risk workflow from synthetic snapshots to labels and baseline modeling
-- copulax contributions: incremental docs and distribution-extension groundwork
+## Current work
 
-Links:
-- Account Risk Scoring: https://github.com/aranculleton/account-risk-scoring
-- CopulAX fork: https://github.com/aranculleton/copulax
-- CopulAX PRs: https://github.com/tfm000/copulax/pulls?q=is%3Apr+author%3Aaranculleton
+### Account Risk Scoring
+I am building this as an end-to-end monthly risk pipeline in small, realistic increments:
+snapshot data -> risk events -> labels -> training slice -> baseline model.
+
+It also doubles as an AI-workflow case study: using Claude/Codex for drafts, then validating with human review logs, checks, and measurable outcomes.
+
+### CopulAX contributions
+CopulAX is an open-source JAX probability distribution library.
+I am contributing through incremental docs/testing improvements and groundwork for adding a new univariate distribution.
+
+## Links
+
+- [Account Risk Scoring](https://github.com/aranculleton/account-risk-scoring)
+- [CopulAX](https://github.com/aranculleton/copulax)
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
