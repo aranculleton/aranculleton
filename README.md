@@ -1,9 +1,17 @@
 # Aran Culleton
 
-Data Science Consultant focused on analytics engineering and risk modeling.
+Data Science Consultant at xantura.
 
-4+ years across xantura, British Airways, and the BBC building SQL/Python pipelines,
-risk scoring models, forecasting tools, and production analytics.
+I build analytics and risk models that have to work in production, not just in notebooks.
+
+Experience snapshot:
+- 4+ years across xantura, British Airways, and the BBC
+- built SQL/Python scoring and forecasting pipelines end-to-end
+- delivered analytics work tied to $1B+ commercial markets and products serving 5M+ users
+- strongest stack: SQL, Python, model validation, data quality controls, and cloud data workflows
+
+One-line summary:
+I like models that survive contact with real data.
 
 ## Current work
 
@@ -21,6 +29,8 @@ Outside work: cooking, travel, and football.
 
 ## Links
 
-- [Account Risk Scoring](https://github.com/aranculleton/account-risk-scoring)
-- [CopulAX](https://github.com/aranculleton/copulax)
-- [LinkedIn](https://www.linkedin.com/in/aranculleton)
+| Where | Link |
+| --- | --- |
+| LinkedIn | [linkedin.com/in/aranculleton](https://www.linkedin.com/in/aranculleton) |
+| Account Risk Scoring | [github.com/aranculleton/account-risk-scoring](https://github.com/aranculleton/account-risk-scoring) |
+| CopulAX | [github.com/aranculleton/copulax](https://github.com/aranculleton/copulax) |
