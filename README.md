@@ -16,10 +16,11 @@ I like models that survive contact with real data.
 ## Current work
 
 ### Account Risk Scoring
-AI-Assisted Account Risk Scoring (personal project)
+RiskSignal Copilot (personal project)
 
-End-to-end flow: snapshots -> events -> labels -> training slice -> baseline model.
-The aim is to show practical Claude/Codex usage with review checks and measurable outcomes.
+End-to-end flow: snapshots -> events -> labels -> baseline model.
+Current focus is integrating AI into product behavior: extracting risk signals from
+case notes and adding triage-ready reason/action outputs.
 
 ### CopulAX contributions
 CopulAX is an open-source JAX probability distribution library.
