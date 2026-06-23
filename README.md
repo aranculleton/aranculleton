@@ -1,37 +1,28 @@
 # Aran Culleton
 
-Data Science Consultant at xantura.
+I'm a Data Science Consultant at xantura (Newton Europe), working across analytics engineering,
+applied machine learning, and risk decisioning.
 
-I build analytics and risk models that have to work in production, not just in notebooks.
+Most of my work sits at the overlap of SQL, Python, and cloud data workflows: building things
+that are useful for operators, not just tidy in a notebook.
 
-Experience snapshot:
-- 4+ years across xantura, British Airways, and the BBC
-- built SQL/Python scoring and forecasting pipelines end-to-end
-- delivered analytics work tied to $1B+ commercial markets and products serving 5M+ users
-- strongest stack: SQL, Python, model validation, data quality controls, and cloud data workflows
+I previously worked at British Airways and the BBC, where I focused on forecasting, experimentation,
+and reliable data products for high-traffic teams.
 
-One-line summary:
-I like models that survive contact with real data.
+Right now I am building RiskSignal Copilot in
+[account-risk-scoring](https://github.com/aranculleton/account-risk-scoring):
+an account risk pipeline that combines structured features with AI-extracted signals from case notes,
+then outputs triage-ready risk reasons and suggested next actions.
 
-## Current work
+I also contribute to [CopulAX](https://github.com/aranculleton/copulax),
+laying groundwork for a new univariate distribution while improving docs and contributor workflows,
+including clearer setup/integration paths for non-Windows environments.
 
-### Account Risk Scoring
-RiskSignal Copilot (personal project)
+Outside data work, I am also a chef.
+Cooking, travel, and football keep me balanced.
 
-End-to-end flow: snapshots -> events -> labels -> baseline model.
-Current focus is integrating AI into product behavior: extracting risk signals from
-case notes and adding triage-ready reason/action outputs.
+## Find me
 
-### CopulAX contributions
-CopulAX is an open-source JAX probability distribution library.
-I contribute docs/testing fixes and distribution-extension groundwork.
+LinkedIn: [linkedin.com/in/aranculleton](https://www.linkedin.com/in/aranculleton)
 
-Outside work: cooking, travel, and football.
-
-## Links
-
-| Where | Link |
-| --- | --- |
-| LinkedIn | [linkedin.com/in/aranculleton](https://www.linkedin.com/in/aranculleton) |
-| Account Risk Scoring | [github.com/aranculleton/account-risk-scoring](https://github.com/aranculleton/account-risk-scoring) |
-| CopulAX | [github.com/aranculleton/copulax](https://github.com/aranculleton/copulax) |
+GitHub projects: [account-risk-scoring](https://github.com/aranculleton/account-risk-scoring) and [copulax](https://github.com/aranculleton/copulax)
