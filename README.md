@@ -17,8 +17,8 @@ job, from the raw data to the conversation with the people who use the results.
 
 ## Projects
 
-- **[last-job-search](https://github.com/aranculleton/last-job-search)**: an AI agent I designed and built that runs an entire job search on its own. It searches job boards and employers' own hiring systems, scores every role against your experience, writes a tailored resume and cover letter for the ones you pick, checks every claim against what you've actually done, finds the people worth contacting and drafts the messages. Everything lives on one private page that updates itself. Built on Claude Code; I run my own search on it.
-- **[openroles](https://github.com/aranculleton/openroles)**: a Python library and MCP server I wrote that pulls every open role at a company straight from its hiring system (Greenhouse, Lever, Workday and others), so AI agents get live jobs instead of stale listings. Published on PyPI.
+- **[last-job-search](https://github.com/aranculleton/last-job-search)**: an AI agent I built that runs a whole job search: it finds and scores jobs, writes and fact-checks each application, and drafts the networking messages.
+- **[openroles](https://github.com/aranculleton/openroles)**: a Python library and MCP server I wrote that pulls every open role at a company straight from its hiring system (Greenhouse, Lever, Workday and others). On PyPI.
 - **[CaseSignal](https://github.com/aranculleton/casesignal)**: a credit-risk prototype inspired by my work at Xantura. It ranks accounts by risk, and adding auditable AI signals from case notes raises precision in the top 10% by 14%.
 - **[CopulAX](https://github.com/aranculleton/copulax)** (contributor): a JAX library for copula modelling and probability distributions. I'm adding support for univariate distributions, with tests for the edge cases.
 
